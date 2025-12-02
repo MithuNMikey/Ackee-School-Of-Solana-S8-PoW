@@ -9,7 +9,7 @@ This repository summarizes the five classroom tasks completed for the Ackee Scho
 
 ---
 
-## 📚 Overview of Tasks
+## 📚 Core Tasks (1-5)
 
 The curriculum progresses from theoretical foundations to practical Rust programming, on-chain development, and specialized concepts like security.
 
@@ -22,3 +22,12 @@ The curriculum progresses from theoretical foundations to practical Rust program
 | **5** | **Solana Program Security** | Program security, common vulnerabilities, and runtime policies on the Solana blockchain. | 
 
 ---
+
+## 🏆 Final Task: SolBrawl (Capstone Project)
+
+| Detail | Description |
+| :--- | :--- |
+| **Project Title** | **SolBrawl (SolBrawl)** - A decentralized, gas-free contest platform built on Solana. |
+| **Type** | Capstone Project: Solana Program deployed to Devnet. |
+| **Program ID** | `EyMxoUu8So5nRVsAewjuWDZM16wVHJEKAzLSHs8kuEr9` |
+| **Frontend URL** | [https://sol-brawl-v1.vercel.app](https://sol-brawl-v1.vercel.app) |
