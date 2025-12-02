@@ -27,7 +27,21 @@ The curriculum progresses from theoretical foundations to practical Rust program
 
 | Detail | Description |
 | :--- | :--- |
-| **Project Title** | **SolBrawl (SolBrawl)** - A decentralized, gas-free contest platform built on Solana. |
+| **Project Title** | **SolBrawl** - A decentralized, gas-free contest platform built on Solana. |
 | **Type** | Capstone Project: Solana Program deployed to Devnet. |
 | **Program ID** | `EyMxoUu8So5nRVsAewjuWDZM16wVHJEKAzLSHs8kuEr9` |
 | **Frontend URL** | [https://sol-brawl-v1.vercel.app](https://sol-brawl-v1.vercel.app) |
+
+---
+
+### Core Features of SolBrawl
+
+SolBrawl is designed to enable organizations to launch trustless competitions with zero friction for participants:
+
+* **SOL-Based Prizes:** Uses direct SOL prizes held in a **transparent escrow** until multisig consensus is reached.
+* **🔒 Built-in Escrow System:** Prize funds are automatically locked using **PDAs** with a time-locked recovery mechanism (30 days after the deadline).
+* **⚖️ Multisig Judging:** Supports a configurable judge panel (up to 5 judges) with a **customizable approval threshold** for trustless, transparent winner consensus.
+* **⛽ Gas Sponsorship:** Contest creators can optionally sponsor transaction fees, enabling **barrier-free participation** where users do not need SOL for gas.
+* **📝 Submission Management:** Tracks URL-based submissions (one per participant) with update capability and timestamp tracking.
+
+---
