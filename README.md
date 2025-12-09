@@ -30,7 +30,7 @@ The curriculum progresses from theoretical foundations to practical Rust program
 | **Project Title** | **SolBrawl** - A decentralized, gas-free contest platform built on Solana.SolBrawl is designed to enable organizations to launch trustless competitions with zero friction for participants |
 | **Type** | Capstone Project: Solana Program deployed to Devnet. |
 | **Program ID** | `EyMxoUu8So5nRVsAewjuWDZM16wVHJEKAzLSHs8kuEr9` |
-| **Frontend URL** | [https://sol-brawl-v1.vercel.app](https://sol-brawl-v1.vercel.app) |
+
 
 ---
 
